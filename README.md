@@ -34,24 +34,13 @@
 - JWT Authentication
 - REST APIs
 
-###  Database
-- MongoDB
-- MySQL
-
-###  Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Vercel
-- Render
-
 ---
 
 ##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavikalluri&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikalluriE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikalluri&theme=tokyonight" />
 </p>
 
 ---
